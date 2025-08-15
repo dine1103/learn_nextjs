@@ -1,5 +1,6 @@
 
 export default function Hihi(){
+export default function Hihi(){
 export default async function Hihi(
     params,
 )}:{
